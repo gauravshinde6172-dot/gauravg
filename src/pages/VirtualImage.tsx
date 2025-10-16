@@ -65,7 +65,7 @@ export default function VirtualImage() {
             <div className="bg-gradient-to-br from-purple-600 via-pink-600 to-blue-600 rounded-3xl p-6 md:p-12">
               <div className="relative aspect-square md:aspect-video rounded-2xl overflow-hidden bg-gradient-to-br from-pink-400 via-purple-400 to-blue-400 flex items-center justify-center">
                 <motion.img
-                  src="https://images.pexels.com/photos/3775087/pexels-photo-3775087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                  src="/home/project/src/assets/UniversalUpscaler_db8df70b-ab52-4c43-9ef5-516fdd9783dc.jpg"
                   alt="Us Together"
                   className="w-full h-full object-cover"
                   initial={{ opacity: 0, scale: 1.1 }}
